@@ -1,1 +1,3 @@
 src/*/resources/** text eof=lf
+src/main/resources/samples/* binary
+*.exe binary
